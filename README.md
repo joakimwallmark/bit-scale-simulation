@@ -43,5 +43,5 @@ renv::restore()
   - df_theta_se_all.rds
   - df_bit_se_all.rds
 2. Generate Figures: Execute 02_generate_figures.R. This will output:
-  - combined_metrics.pdf (Figure 6 in the paper)
-  - combined_se.pdf (Figure 7 in the paper)
+  - combined_metrics.pdf (Figure 7 in the paper)
+  - combined_se.pdf (Figure 8 in the paper)
